@@ -2,42 +2,42 @@
   {
     "id": "html",
     "index": 0,
-    "picture": "https://i.ibb.co/pzYrL35/html.png",
+    "picture": "http://img.arman.top/images/TaZiV.png",
     "name": "HTML",
     "details": "Originally, HTML was developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in HTML language.\r\n HTML is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning HTML:  \r\n  Create Web site - You can create a website or customize an existing web template if you know HTML well.  \r\n  Become a web designer - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill.  \r\n  Understand web - If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield best results.  \r\n  Learn other languages - Once you understands the basic of HTML then other related technologies like javascript, php, or angular are become easier to understand."
   },
   {
     "id": "css",
     "index": 1,
-    "picture": "https://i.ibb.co/y8QRcTP/css.png",
+    "picture": "http://img.arman.top/images/wYppD.png",
     "name": "CSS",
     "details": "CSS is used to control the style of a web document in a simple and easy way.\r\n CSS is the acronym for 'Cascading Style Sheet'. This tutorial covers both the versions CSS1,CSS2 and CSS3, and gives a complete understanding of CSS, starting from its basics to advanced concepts.\r\nWhy to Learn CSS? \r\n design language intended to simplify the process of making web pages presentable.\r\nCSS is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning CSS: \r\n Create Stunning Web site - CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs,variations in display for different devices and screen sizes as well as a variety of other effects.\r\n Become a web designer - If you want to start a carrer as a professional web designer, HTML and CSS designing is a must skill.\r\nControl web - CSS is easy to learn and understand but it provides powerful control over the presentation of an HTML document. Most commonly, CSS is combined with the markup languages HTML or XHTML.\r\nLearn other languages - Once you understands the basic of HTML and CSS then other related technologies like javascript, php, or angular are become easier to understand."
   },
   {
     "id": "bootstrap",
     "index": 2,
-    "picture": "https://i.ibb.co/6bFwq3C/bootstrap.png",
+    "picture": "http://img.arman.top/images/rJEjK.png",
     "name": "Bootstrap",
     "details": "Twitter Bootstrap is the most popular front end framework in the recent time. It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development. It uses HTML, CSS and Javascript. This tutorial will teach you the basics of Bootstrap Framework using which you can create web projects with ease.\r\n The tutorial is divided into sections such as Bootstrap Basic Structure, Bootstrap CSS, Bootstrap Layout Components and Bootstrap Plugins. Each of these sections contain related topics with simple and useful examples. Why to Learn Bootstrap?   Mobile first approach − Bootstrap 3, framework consists of Mobile first styles throughout the entire library instead them of in separate files.\r\n    Browser Support − It is supported by all popular browsers. \r\n Easy to get started − With just the knowledge of HTML and CSS anyone can get started with Bootstrap. Also the Bootstrap official site has a good documentation.  \r\n   Responsive design − Bootstrap's responsive CSS adjusts to Desktops, Tablets and Mobiles. More about the responsive design is in the chapter Bootstrap Responsive Design."
   },
   {
     "id": "tailwind",
     "index": 3,
-    "picture": "https://i.ibb.co/6gN50Tb/tailwindcss.png",
+    "picture": "http://img.arman.top/images/Ttvoj.png",
     "name": "Tailwind",
     "details": "What is Tailwind CSS?\r\n\r\n    Tailwind is a library of atomic CSS rules (i.e., single-purpose utility classes) that helps you build HTML pages without touching your CSS. But Tailwind isn’t just the CSS. In addition to the framework itself, Tailwind includes a CLI and various configuration and theming options. These allow you to automate and scale your builds, thus making the most of Tailwind’s features without sacrificing performance and maintainability.\r\n   Before I get to an explanation of the CLI and build options in this Tailwind CSS tutorial for beginners, let’s first consider features of the library itself (i.e. the atomic classes). This will demonstrate how easy it is to build stuff with Tailwind.\r\n    Why Tailwind CSS ?  \r\n \r\n  As we know there are many CSS frameworks but people always choose the fast and easy framework to learn and use in the project. Tailwind has come with inbuilt a lot of features and styles for users to choose from and is also used to reduce the tendency of writing CSS code and create a beautiful custom UI. It will help you to overcome complicated task. Tailwind CSS creates small utilities with a defined set of options enabling easy integration of existing classes directly into the HTML code. "
   },
   {
     "id": "javascript",
     "index": 4,
-    "picture": "https://i.ibb.co/PtgfQym/js.png",
+    "picture": "http://img.arman.top/images/3VJyb.png",
     "name": "JavaScript",
     "details": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform. Why to Learn Javascript \r\n    Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript: \r\n Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc. \r\n    Javascript is everywhere, it comes installed on every modern web browser and so to learn Javascript you really do not need any special environment setup. For example Chrome, Mozilla Firefox , Safari and every browser you know as of today, supports Javascript. \r\n    Javascript helps you create really beautiful and crazy fast websites. You can develop your website with a console like look and feel and give your users the best Graphical User Experience. \r\n    JavaScript usage has now extended to mobile app development, desktop app development, and game development. This opens many opportunities for you as Javascript Programmer. \r\n    Due to high demand, there is tons of job growth and high pay for those who know JavaScript. You can navigate over to different job sites to see what having JavaScript skills looks like in the job market. \r\n    Great thing about Javascript is that you will find tons of frameworks and Libraries already developed which can be used directly in your software development to reduce your time to market."
   },
   {
     "id": "react",
     "index": 5,
-    "picture": "https://i.ibb.co/wN4pbwT/react.png",
+    "picture": "http://img.arman.top/images/vbasN.png",
     "name": "ReactJS",
     "details": "ReactJS tutorial provides basic and advanced concepts of ReactJS. \r\n Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.\r\n ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram.\r\n   Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more.\r\n  Why we use ReactJS?\r\n\r\n    The main objective of ReactJS is to develop User Interfaces (UI) that improves the speed of the apps. It uses virtual DOM (JavaScript object), which improves the performance of the app. The JavaScript virtual DOM is faster than the regular DOM. We can use ReactJS on the client and server-side as well as with other frameworks. It uses component and data patterns that improve readability and helps to maintain larger apps."
   }
